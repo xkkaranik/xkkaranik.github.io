@@ -24,9 +24,8 @@ body {
 }
 
 .icon {
-	display:inline block;
+	display: inline-block;
 	width: 20px;
-	margin: 0.25em;
 
 }
 

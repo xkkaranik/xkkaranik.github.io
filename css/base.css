@@ -1,0 +1,28 @@
+a:link, a:visited {
+	background:#e0f6ff;
+	/*border-bottom:#99c4d5 1px solid; */
+	text-decoration:none;
+	/*color:#3399cc;*/
+	color: #727171;
+	text-decoration:none;
+}
+
+body {
+	font-family: 'Exo 2',sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+	padding:0px;
+	margin: 0px auto;
+	text-align:justify;
+}
+
+li {
+	list-style-type: none;
+}
+
+#footer {
+	border-top:1px solid #c0c0c0;
+	padding: 5px 0px;
+	font-size:12px;
+	text-align:center;
+}
